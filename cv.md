@@ -1,12 +1,12 @@
 # Ilgiz Shaykhullin
 
-## ![It's me][c:\users\asus\desktop\проекты html+css\roling scopes\rsschool-cv\me-crop.png]
+## ![It's me][c:\users\asus\desktop\me-crop.png]
 
 ### telephone number
 
 _+79279525580_
 
-### Me in dicord
+### Me in discord
 
 **Ilgiz_Shaykhullin - satirk0**
 
@@ -52,6 +52,10 @@ function calcul() {
             result = "Выберите операцию";
     }
 ```
+
+---
+
+[My CV in Github](https://github.com/satirk0/rsschool-cv.git)
 
 ---
 
