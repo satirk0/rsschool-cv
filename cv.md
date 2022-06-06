@@ -18,6 +18,7 @@ _+79279525580_
 - JS
 - React
 - SQL
+- Git
 
 ---
 
@@ -47,3 +48,16 @@ function calcul() {
             result = "Выберите операцию";
     }
 ```
+
+---
+
+### higher technical education
+
+- Fire Safety Engineer
+- QA Engineer
+
+---
+
+### Some English cources
+
+> Pre-Intermediate
