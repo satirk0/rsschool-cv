@@ -1,10 +1,14 @@
 # Ilgiz Shaykhullin
 
----
+## ![It's me][c:\users\asus\desktop\проекты html+css\roling scopes\rsschool-cv\me-crop.png]
 
 ### telephone number
 
 _+79279525580_
+
+### Me in dicord
+
+**Ilgiz_Shaykhullin - satirk0**
 
 ---
 
