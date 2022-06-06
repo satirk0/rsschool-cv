@@ -53,8 +53,8 @@ function calcul() {
 
 ### higher technical education
 
-- Fire Safety Engineer
-- QA Engineer
+1. Fire Safety Engineer
+2. QA Engineer
 
 ---
 
